@@ -36,11 +36,10 @@ Soy desarrollador Full Stack con ~2 años de experiencia práctica, especializad
   <img alt="Stored Procedures" src="https://img.shields.io/badge/Stored%20Procedures-Intermedio-6f42c1?style=flat" />
 </p>
 
-    </td>
+  </td>
 
-    <td width="42%" valign="top" align="right">
+  <td width="42%" valign="top" align="right">
 
-<!-- Right column: stats and visual badges -->
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ReichertK&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
@@ -53,7 +52,7 @@ Soy desarrollador Full Stack con ~2 años de experiencia práctica, especializad
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" src="https://github-profile-trophy.vercel.app/?username=ReichertK&theme=onedark" alt="trophy" /></a>
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
