@@ -16,7 +16,7 @@ Soy desarrollador Full Stack con ~2 años de experiencia práctica, enfocado en 
 <p align="left">
 - 🔭 Actualmente: Freelance — desarrollo backend (.NET/C#) y mantenimiento full‑stack.  
 - 🌱 En formación: React y adopción de TailwindCSS.  
-- 💬 Contacto: <a href="mailto:rei.chert@hotmail.com">rei.chert@hotmail.com</a> · Tel: (1176111232) · LinkedIn: <a href="https://linkedin.com/in/kevin-reicherth">kevin-reicherth</a> · GitHub: <a href="https://github.com/ReichertK">ReichertK</a>
+- 💬 Contacto: <a href="mailto:rei.chert@hotmail.com">rei.chert@hotmail.com</a> · LinkedIn: <a href="https://linkedin.com/in/kevin-reicherth">kevin-reicherth</a> · GitHub: <a href="https://github.com/ReichertK">ReichertK</a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas</h3>
