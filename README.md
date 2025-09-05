@@ -10,12 +10,12 @@
 </p>
 
 <p align="left">
-Soy desarrollador Full Stack con ~2 años de experiencia práctica, enfocado en resolver problemas reales con soluciones mantenibles. Trabajo habitualmente con backend en C# y .NET 6, diseñando bases de datos relacionales (MySQL 5.5), almacenando lógica crítica en Stored Procedures y consumiendo/exponiendo APIs. En el frontend tengo una base sólida en HTML5/CSS3/Bootstrap y JavaScript, y estoy consolidando mi experiencia en React para modernizar interfaces. Entrego código claro, con atención a rendimiento y facilidad de mantenimiento, y puedo trabajar desde la capa de datos hasta la UI.
+Soy desarrollador Full Stack con ~2 años de experiencia práctica, enfocado en soluciones mantenibles y bien documentadas. Mi trabajo habitual combina backend en C# / .NET 6 con diseño de bases de datos MySQL (modelado, índices, Stored Procedures) y acceso a datos con ADO.NET, junto con frontends construidos con HTML5, CSS3, Bootstrap y JavaScript. Estoy consolidando experiencia en React para modernizar interfaces y en TailwindCSS para acelerar maquetados. Entrego código claro, pruebas básicas y atención a rendimiento y mantenibilidad.
 </p>
 
 <p align="left">
 - 🔭 Actualmente: Freelance — desarrollo backend (.NET/C#) y mantenimiento full‑stack.  
-- 🌱 En formación: React y adopción de TailwindCSS.  
+- 🌱 En formación: React (práctica y proyecto público en preparación) y TailwindCSS.  
 - 💬 Contacto: <a href="mailto:rei.chert@hotmail.com">rei.chert@hotmail.com</a> · LinkedIn: <a href="https://linkedin.com/in/kevin-reicherth">kevin-reicherth</a> · GitHub: <a href="https://github.com/ReichertK">ReichertK</a>
 </p>
 
@@ -41,7 +41,8 @@ Soy desarrollador Full Stack con ~2 años de experiencia práctica, enfocado en 
   <a href="https://github.com/ReichertK" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kevin-reicherth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/rei.chert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:rei.chert@hotmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
+  <!-- Reemplazado el icono roto por un badge de Shields (con logo Gmail) -->
+  <a href="mailto:rei.chert@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-rei.chert%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
 <p>
