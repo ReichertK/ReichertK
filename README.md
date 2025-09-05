@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hola 👋, soy Kevin Reichert</h1>
 <h3 align="center">Full Stack Developer · .NET 6 / C# · MySQL · React (en progreso)</h3>
 
